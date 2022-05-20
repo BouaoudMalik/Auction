@@ -1,0 +1,749 @@
+1653058185815|Global registry up and running!
+1653058193350|Global registry accepted the 1th connection.
+1653058193352|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-1cba7da1-6b03-4d68-9c8c-6fcd862fb644 rmi=localhost
+1653058193467|Global registry accepted the 2th connection.
+1653058193467|All (2) connected!
+1653058193467|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-cae5a2aa-4bbd-4a91-8a36-64028f44a43a rmi=localhost
+1653058193517|GlobalRegistry processing put auctioneer-pluguri rmi=localhost
+1653058193553|GlobalRegistry processing put seller-uri rmi=localhost
+1653058193566|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-4cf109c3-0076-44b1-a23d-c17e3d45afa6 rmi=localhost
+1653058193593|GlobalRegistry processing put JVM1-dcc rmi=localhost
+1653058193640|GlobalRegistry processing put 12ebf714-4695-42dc-94a4-d966eea8e317 rmi=localhost
+1653058193649|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-44fcfd68-2a92-453c-8429-a01de6eceda1 rmi=localhost
+1653058193653|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-f0aa8b28-80e2-42a5-bcfc-87bc507f6e4d rmi=localhost
+1653058193708|GlobalRegistry processing put 8473e0f2-f33a-4431-ab8a-817a79ca77a9 rmi=localhost
+1653058193721|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-106e9ade-d6d9-4300-9733-70b02c2a28c0 rmi=localhost
+1653058193728|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-15b2cafd-6937-4781-b8d3-06f544769ff4 rmi=localhost
+1653058193795|GlobalRegistry processing put 8515af78-6407-49df-a124-4cc94d8be8b3 rmi=localhost
+1653058193798|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-a63ce2cd-8abb-4949-ad4a-fa3596fb8348 rmi=localhost
+1653058193801|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-d77fa4ed-a494-4e05-b35b-8cd49330ec69 rmi=localhost
+1653058193853|GlobalRegistry processing put 761bd4bd-1eb6-4313-aedb-ef5f0a3ca6db rmi=localhost
+1653058193855|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-471bcb8d-cd66-436f-bc08-76e766a9db37 rmi=localhost
+1653058193857|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-9da2aa4a-0de1-480d-95b0-783c9f5c5e45 rmi=localhost
+1653058193892|GlobalRegistry processing put 2e495d88-f87e-4e48-a763-d891ebac775b rmi=localhost
+1653058193894|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-682b9361-02cf-4fe6-a526-eb8419d5ee65 rmi=localhost
+1653058193896|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-6d29630e-3991-4ec0-86bf-f64066ccfcf5 rmi=localhost
+1653058193926|GlobalRegistry processing put 5339cc07-d2f7-413a-b802-03614cc502c8 rmi=localhost
+1653058193927|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-dd044851-1b56-4626-b3c4-f11f241914e3 rmi=localhost
+1653058193930|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-0742134b-3560-4cfc-8ac0-feee8069aaa7 rmi=localhost
+1653058193966|GlobalRegistry processing put 633ba6a2-5742-4f5f-ade7-59df491d1b07 rmi=localhost
+1653058193968|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-a032d17b-575d-440d-9038-258e5fcccde0 rmi=localhost
+1653058193970|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-c563d04c-7d51-4455-816b-3cfe6f0570d2 rmi=localhost
+1653058194002|GlobalRegistry processing put ed6d081a-dddd-41bf-ae70-1d4d05553ea6 rmi=localhost
+1653058194004|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-f5b60980-65c4-4fff-b094-cd48185d9e03 rmi=localhost
+1653058194006|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-7f4644d8-f8b6-4a0e-a3c6-006640bd9022 rmi=localhost
+1653058194035|GlobalRegistry processing put a28907ce-b4ff-4337-a78d-a8eb4c214f89 rmi=localhost
+1653058194036|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-0e8ca738-1159-4933-8985-8b3383bbc3d5 rmi=localhost
+1653058194038|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-d8d4bed2-8d9e-4e23-a70c-5dceb172f5d8 rmi=localhost
+1653058194061|GlobalRegistry processing put 75844275-3a44-4fa6-9344-6778baadb3e6 rmi=localhost
+1653058194062|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-b446b46c-848f-4edc-b33b-0148ca26d5fe rmi=localhost
+1653058194064|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-9dff01a2-735b-4cde-a872-dc6f52af8070 rmi=localhost
+1653058194088|GlobalRegistry processing put 445f2a08-762e-4152-907d-c05e28d340c4 rmi=localhost
+1653058194090|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-a735ae50-3520-48c9-a69c-a19d2ea52a7c rmi=localhost
+1653058194092|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-6b1c04b2-5d67-43d2-9d31-f63c28c43ee4 rmi=localhost
+1653058194121|GlobalRegistry processing put feb9778c-1579-4898-82a3-97f969110bf6 rmi=localhost
+1653058194123|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-63988919-79c0-4a9b-9f6a-31af366ae096 rmi=localhost
+1653058194125|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-08b37352-391f-4474-9129-2ea7aac84ce8 rmi=localhost
+1653058194153|GlobalRegistry processing put de6403ec-276f-44a6-98cc-937845c26103 rmi=localhost
+1653058194154|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-f990de63-bf35-46ed-91a7-9ad4e3a725de rmi=localhost
+1653058194157|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-8ccaf237-1663-4904-8875-c8260a8408cd rmi=localhost
+1653058194191|GlobalRegistry processing put 71b6c5e6-5851-4798-8703-3c449291c441 rmi=localhost
+1653058194193|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-48a9d695-511c-43a3-88e9-f137db048990 rmi=localhost
+1653058194196|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-33fadee4-9331-442a-bc9f-1a89bf568ce1 rmi=localhost
+1653058194226|GlobalRegistry processing put 7058f638-272b-4336-8130-d70ed9232304 rmi=localhost
+1653058194227|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-b527b98a-45ac-42f8-8092-7e4504b27050 rmi=localhost
+1653058194231|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-fe96c994-8f84-4019-8f07-4118ced46558 rmi=localhost
+1653058194261|GlobalRegistry processing put 5d37434b-4d59-44e1-970c-1cb098a436de rmi=localhost
+1653058194265|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-58142a3c-fbff-40aa-956d-6edc89e9eff0 rmi=localhost
+1653058194268|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-b58d78ea-3a46-4e99-931e-90559a599b2c rmi=localhost
+1653058194298|GlobalRegistry processing put f3e4a06e-e494-4b89-92e6-a8f34daad202 rmi=localhost
+1653058194300|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-7701206b-cab4-4318-833d-aed11036f777 rmi=localhost
+1653058194302|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-aad5ecc7-8ca3-4367-9747-73283228349d rmi=localhost
+1653058194330|GlobalRegistry processing put d6b66d83-6476-436f-8134-ea2b1257e2bc rmi=localhost
+1653058194332|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-1a2c0341-dbce-4aff-a7c5-a23f7b6a0c5f rmi=localhost
+1653058194334|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-01d990a5-88eb-4731-8ffd-db097a1b27b2 rmi=localhost
+1653058194366|GlobalRegistry processing put 1e0ec3de-edee-498e-a707-bc248f67c66d rmi=localhost
+1653058194368|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-1a2fded3-83f8-4ea2-82ac-0890a313e531 rmi=localhost
+1653058194372|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-969941f0-2890-4442-a961-df2177c94358 rmi=localhost
+1653058194406|GlobalRegistry processing put cfd9d263-ca79-4170-955a-4345b2e38bc0 rmi=localhost
+1653058194409|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-0ae26d62-7356-4af8-968b-9f8cad0c3ac2 rmi=localhost
+1653058194414|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-25c7e28b-3431-456a-b6b2-d193fc93412d rmi=localhost
+1653058194440|GlobalRegistry processing put 6339446d-580b-4705-aa91-41426eeae2f8 rmi=localhost
+1653058194442|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-0a64b9f9-3005-41b3-9377-ee990fd9211a rmi=localhost
+1653058194444|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-ef591d70-4690-4163-b46c-699700010f66 rmi=localhost
+1653058194472|GlobalRegistry processing put 39a7800f-5f04-42f3-ac70-b4dc761bc8a1 rmi=localhost
+1653058194474|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-c9d2046d-a451-48a6-980a-68e8680a7501 rmi=localhost
+1653058194478|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-86dcc9d5-7efb-4bbf-9f64-769954a274ba rmi=localhost
+1653058194516|GlobalRegistry processing put eed33ebb-97e1-45cd-ba03-749e2718d576 rmi=localhost
+1653058194519|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-aa83c308-e427-4501-8659-33e8ca79e169 rmi=localhost
+1653058194524|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-e13c302f-5113-4e10-b938-f23700f465d0 rmi=localhost
+1653058194558|GlobalRegistry processing put 181b3ff0-289c-4bfd-8e3c-72034aab67f3 rmi=localhost
+1653058194560|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-6487dbdb-53c8-421b-9391-79cc3f16d60d rmi=localhost
+1653058194563|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-327b54be-1131-4c38-b36c-e21aad32190d rmi=localhost
+1653058194595|GlobalRegistry processing put e73d7370-77fb-4a84-91b1-c86ebeae79da rmi=localhost
+1653058194600|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-3962bcf4-fd8f-4f8f-9588-641da56dea04 rmi=localhost
+1653058194606|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-727521cd-03d2-4649-aeb3-df6f03d51967 rmi=localhost
+1653058194642|GlobalRegistry processing put 78c164b8-fb83-4101-ad8e-7a08071897d3 rmi=localhost
+1653058194645|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-eceab43f-4c1e-4b81-b4d3-c5f1b544ed5c rmi=localhost
+1653058194647|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-fa42a4bf-6435-463e-8874-617069d1f95b rmi=localhost
+1653058194670|GlobalRegistry processing put 604eb6b8-e22b-4f6a-9fa8-4ce0e429da23 rmi=localhost
+1653058194671|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-52758dde-0bf7-4e3e-8c82-5774f9d1a6bf rmi=localhost
+1653058194674|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-8811a7a1-becd-4cb3-a56e-e68c7115aafa rmi=localhost
+1653058194704|GlobalRegistry processing put 111d1ffe-f908-4a5c-b980-c765d6a3e9c7 rmi=localhost
+1653058194706|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-cb2ab988-0b1c-4c51-bbdc-580e305fab33 rmi=localhost
+1653058194709|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-e2ca6d0b-6404-4689-bbbb-cf0100fd50b2 rmi=localhost
+1653058194739|GlobalRegistry processing put cfdde462-ef35-4d4a-8a4f-2dc3f8e3c658 rmi=localhost
+1653058194742|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-6dd6b87c-729f-4679-9618-7ad0538d4886 rmi=localhost
+1653058194746|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-439e1dc4-e6fb-430a-9f98-f6a0063512b0 rmi=localhost
+1653058194769|GlobalRegistry processing put cf137af7-5b1f-4acf-99f0-6922afa6e37d rmi=localhost
+1653058194770|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-da39a947-8221-4fe3-852c-80cebb83c00a rmi=localhost
+1653058194773|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-5275e600-4d34-40dc-a236-70418602a857 rmi=localhost
+1653058194819|GlobalRegistry processing put fbbb6896-b2d1-42cc-a530-15b4dd207a50 rmi=localhost
+1653058194821|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-f98a56a8-7723-43ca-b761-8872ee22c6fc rmi=localhost
+1653058194824|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-ac01696a-f9cb-4196-85ea-5dc5a97a08a9 rmi=localhost
+1653058194852|GlobalRegistry processing put 1c222b7d-13e1-4f0b-b0aa-a82f5491412d rmi=localhost
+1653058194853|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-bf6f64c7-d968-4404-8873-48c9dc753546 rmi=localhost
+1653058194856|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-8cc70542-f5b6-4ee3-95f2-c26db739e752 rmi=localhost
+1653058194882|GlobalRegistry processing put e2dedfdc-fd0f-498d-a145-a1b38d9bffcd rmi=localhost
+1653058194890|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-3e4265a2-65f8-4597-a965-ba90a837e751 rmi=localhost
+1653058194893|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-872f29ca-2c7b-4b23-a9e8-801a609a3cad rmi=localhost
+1653058194919|GlobalRegistry processing put 378883a7-6005-4848-9357-6f1186a81384 rmi=localhost
+1653058194921|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-ad863f74-b6d3-4b65-91f3-b4d6bccc6296 rmi=localhost
+1653058194923|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-dff40f86-af07-4958-92ec-f7acd30222c6 rmi=localhost
+1653058194943|GlobalRegistry processing put 0fc753eb-c9cc-4beb-b433-9eade771e7ec rmi=localhost
+1653058194945|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-fbe486f3-c646-4efe-8253-5cf4ddd8dd5c rmi=localhost
+1653058194947|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-32568a61-d38a-4196-bca5-604749b4234b rmi=localhost
+1653058194972|GlobalRegistry processing put 62c36ee3-7f66-4d0a-96d7-a7acf6a3f21d rmi=localhost
+1653058194974|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-4b9bb00e-7520-482c-abd4-9b3a867ac3d6 rmi=localhost
+1653058194976|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-a7546600-f619-4e24-b944-85339f1950b3 rmi=localhost
+1653058194992|GlobalRegistry processing put 05b09113-dae5-4848-9d95-29e8a74fb6d1 rmi=localhost
+1653058194996|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-6e3aaea9-cdc3-4ce4-abe6-30dfe2b29ce4 rmi=localhost
+1653058194998|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-38b095d9-6885-4824-9976-4a0bc6bcf680 rmi=localhost
+1653058195013|GlobalRegistry processing put 3f3fea9a-2eb3-4fb9-b6ca-57fe3d84b95c rmi=localhost
+1653058195014|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-4dd451bf-bde6-49a9-a788-beb23fb0ea1c rmi=localhost
+1653058195016|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-085834c7-8613-49a7-8927-0413c8431320 rmi=localhost
+1653058195030|GlobalRegistry processing put c3c64260-ae4d-47c0-84d8-fd13544cadf5 rmi=localhost
+1653058195031|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-e3d13c17-8b52-4cb7-8972-245bcfdc630c rmi=localhost
+1653058195033|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-4d61780d-7cac-4e37-a3a6-dde7b2f30683 rmi=localhost
+1653058195050|GlobalRegistry processing put 11dcad2b-2be9-46eb-b9c4-6634585a2755 rmi=localhost
+1653058195052|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-4c567279-3114-4459-9046-f6d79863bb51 rmi=localhost
+1653058195057|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-f797d4f1-3e52-41d5-b700-22ca730f3198 rmi=localhost
+1653058195079|GlobalRegistry processing put 9d688918-ad9d-401c-9ba4-9819519e520a rmi=localhost
+1653058195081|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-268332b4-08a4-44a2-83b9-58455a5a22fb rmi=localhost
+1653058195084|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-0fbc7488-fc44-42e2-9330-1e8b18f73556 rmi=localhost
+1653058195110|GlobalRegistry processing put 869dddec-a86d-418e-89e6-286b96d8ea12 rmi=localhost
+1653058195112|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-84860710-9c23-47ca-a28a-5b495dce9abd rmi=localhost
+1653058195114|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-b3331f67-c94d-42aa-89df-0be77b3ccac6 rmi=localhost
+1653058195135|GlobalRegistry processing put abd89f1e-2074-411b-8f0e-263fa29c1ad3 rmi=localhost
+1653058195138|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-0ddfc731-00cc-4736-b9ff-2837441b0326 rmi=localhost
+1653058195140|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-0fd0d9e7-226f-4db0-9375-11c807348476 rmi=localhost
+1653058195161|GlobalRegistry processing put 14d71d8b-5e55-4370-bea7-7bd8bc49eed8 rmi=localhost
+1653058195163|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-fe524ac2-e274-4d1b-bcfd-2140a45698d2 rmi=localhost
+1653058195165|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-e1eabcc7-d96f-4795-8c73-aa93a0a3c2ec rmi=localhost
+1653058195184|GlobalRegistry processing put f016d598-6980-4012-86ee-e5b0e5a54e10 rmi=localhost
+1653058195186|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-1a222fe5-6c52-41e8-a502-8fd7e583c334 rmi=localhost
+1653058195187|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-467093aa-9699-42bf-a6af-0e91404509be rmi=localhost
+1653058195209|GlobalRegistry processing put a0ade2f4-ffb2-4197-8c4a-6ddb53e1bb52 rmi=localhost
+1653058195211|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-84b72ca6-b354-4698-98af-bb31ef264049 rmi=localhost
+1653058195212|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-dde7374b-7fcd-4d2a-9fbb-59954503d0a8 rmi=localhost
+1653058195226|GlobalRegistry processing put 6009101b-f8ae-4ca8-989c-a5c07a21b61f rmi=localhost
+1653058195228|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-31c06e0a-9619-4a96-acc0-2e3e75fd8920 rmi=localhost
+1653058195229|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-7235dca0-e80c-444f-84bd-6f78ced48c89 rmi=localhost
+1653058195243|GlobalRegistry processing put e08f910d-bf1d-4942-bd30-a438e6c495aa rmi=localhost
+1653058195245|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-1b33ab4f-820b-4b0e-9858-6f5564bbef3a rmi=localhost
+1653058195246|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-d85925bc-40d1-49e4-a842-26e0369cfc89 rmi=localhost
+1653058195260|GlobalRegistry processing put f21a491e-8148-4572-8fcd-0c34a86f8498 rmi=localhost
+1653058195262|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-7e51c31c-7401-4d0e-8974-203f03b4ea41 rmi=localhost
+1653058195263|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-3dd29db5-d816-48ba-b448-a72fd9b8bfc8 rmi=localhost
+1653058195281|GlobalRegistry processing put 16596c4e-6a0a-4f81-9d33-471d45275833 rmi=localhost
+1653058195283|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-a72feeb2-e4df-486a-a6c4-635b03e24dd6 rmi=localhost
+1653058195284|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-49aaef72-f902-4472-8bf3-0357aef917dd rmi=localhost
+1653058195301|GlobalRegistry processing put 779d72ab-1236-436a-930f-fce9b97d711a rmi=localhost
+1653058195303|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-0f442c0f-b107-4947-95a9-b602f0da03a6 rmi=localhost
+1653058195305|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-02fec77f-200a-4f84-bbb2-8887e4f63536 rmi=localhost
+1653058195320|GlobalRegistry processing put 10c8ac61-cc11-4c29-b0a2-efef9de1fbab rmi=localhost
+1653058195321|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-55eff4c9-0d24-4831-89ee-bc041d55cd7a rmi=localhost
+1653058195323|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-dba7b884-b623-4056-a197-631ee7608073 rmi=localhost
+1653058195336|GlobalRegistry processing put 72c7db95-6520-47fd-8c7e-2eb2dc642ac9 rmi=localhost
+1653058195337|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-b2d32c0e-dcf2-41c8-9748-938b9758a73f rmi=localhost
+1653058195339|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-9591b1f6-3661-4ae1-b456-8763fc5c981c rmi=localhost
+1653058195358|GlobalRegistry processing put a4f65b8c-8fb3-4472-a381-8866d7547b26 rmi=localhost
+1653058195360|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-0a2e15e1-e664-432f-96eb-bad8cbdb4665 rmi=localhost
+1653058195362|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-e9d51445-5756-4dc9-9df8-03714bca9476 rmi=localhost
+1653058195382|GlobalRegistry processing put 7dda1013-0dc1-4ceb-8e8c-629f0ecf5bb0 rmi=localhost
+1653058195383|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-bef315b7-349e-4311-bc4a-28d43b6c510e rmi=localhost
+1653058195386|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-d30c43cf-5472-480b-9218-f1525d0f647d rmi=localhost
+1653058195401|GlobalRegistry processing put f7e953b1-5017-4526-a26c-55283465173e rmi=localhost
+1653058195403|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-acf69c51-631c-47a5-91b4-ee9f0b44f5fb rmi=localhost
+1653058195405|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-8d74ec75-e0df-4ed1-a03f-655ba3260b74 rmi=localhost
+1653058195419|GlobalRegistry processing put f89345bd-0a48-4a44-b08d-e75a32dc5856 rmi=localhost
+1653058195421|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-afed211a-5938-4658-b1a6-302861aa1669 rmi=localhost
+1653058195422|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-1683d2f5-9bfa-4c57-b434-fb3772b24f4e rmi=localhost
+1653058195440|GlobalRegistry processing put b09e897c-c01d-43b3-a5f7-e0cb3d7341ba rmi=localhost
+1653058195441|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-19a81665-4313-4ea8-88b4-a81959c3f078 rmi=localhost
+1653058195443|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-007c1ca5-75d5-4ec5-94e8-25e86b6c772e rmi=localhost
+1653058195460|GlobalRegistry processing put 4a5e82bb-66ac-41b2-9627-5b5e58209ec1 rmi=localhost
+1653058195462|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-fb2719a5-1134-4ef2-9bae-790b5424766a rmi=localhost
+1653058195464|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-59064537-5c62-4302-8d03-7530c0ba9a4a rmi=localhost
+1653058195480|GlobalRegistry processing put 1b3f4803-4d7c-49c3-a208-64af83aacad4 rmi=localhost
+1653058195482|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-b67d6f04-1baa-4010-a8a0-205d669c802a rmi=localhost
+1653058195484|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-44d62d32-2859-4850-a77d-f5c5d8c04dd4 rmi=localhost
+1653058195498|GlobalRegistry processing put 68015d5b-8086-4d17-87d2-86278be62784 rmi=localhost
+1653058195500|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-e38e4670-5272-49ee-a098-a151548aa04a rmi=localhost
+1653058195502|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-eb3ef8db-5b10-4672-b75c-7e555130f006 rmi=localhost
+1653058195522|GlobalRegistry processing put 319e560f-fdbe-4145-8a15-2cdfd19817e5 rmi=localhost
+1653058195523|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-2b1624c0-fe8d-4fdf-9e27-7a0d479b91c7 rmi=localhost
+1653058195526|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-1f1150d9-df21-4f07-82e0-96a993ca7751 rmi=localhost
+1653058195546|GlobalRegistry processing put 4f3244b2-c8b0-45d9-97c6-f417fbddd66c rmi=localhost
+1653058195547|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-92c1ddab-63fc-4b21-8506-9ccd686bfc71 rmi=localhost
+1653058195549|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-794629b2-03bf-47ea-8a73-adc358010667 rmi=localhost
+1653058195569|GlobalRegistry processing put 9b9d9462-6ed1-4b56-b9e4-49987764d480 rmi=localhost
+1653058195571|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-fda01d3a-704e-49ef-bac6-b6b7adc1af77 rmi=localhost
+1653058195573|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-ba2a83e4-4fd8-499e-9989-301d47ee4b19 rmi=localhost
+1653058195589|GlobalRegistry processing put a4891dfb-1a9a-4901-b669-6f5bf3578626 rmi=localhost
+1653058195590|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-e66afa64-cb28-44d2-8a31-1285aa419619 rmi=localhost
+1653058195592|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-1114e0fc-06e5-4f11-ab1f-f2b552def2f3 rmi=localhost
+1653058195608|GlobalRegistry processing put 67c4b6d5-c255-4e37-b6a5-ce34ee694ed1 rmi=localhost
+1653058195609|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-2c759ebb-c55f-464f-844f-d1a8bc2909dd rmi=localhost
+1653058195611|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-2b1843dd-2f6f-4322-8e56-48f04054dffe rmi=localhost
+1653058195625|GlobalRegistry processing put 666f1c8a-11dc-49e2-ac86-f3930cfd6a80 rmi=localhost
+1653058195626|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-e6766156-2b01-4687-b6cc-3528a93cbce9 rmi=localhost
+1653058195628|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-716fe896-111c-493c-bf91-45329d2343fe rmi=localhost
+1653058195641|GlobalRegistry processing put 2490c0d8-d353-4d58-bd65-179c43f3d38e rmi=localhost
+1653058195643|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-cba641ee-72cd-40f6-817c-6ed56dd6c5c8 rmi=localhost
+1653058195645|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-52b229ce-2133-4078-a70c-bdeef412a72d rmi=localhost
+1653058195659|GlobalRegistry processing put 2abf96dc-b7df-4b4c-92b2-ebe64f7766a5 rmi=localhost
+1653058195661|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-8b880dee-4af9-4680-893a-e555387be383 rmi=localhost
+1653058195663|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-5f308af4-f534-4283-b65b-62a1254ab212 rmi=localhost
+1653058195677|GlobalRegistry processing put ec9ac0db-8288-4d6c-b247-a41ff9378c65 rmi=localhost
+1653058195678|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-a9925bec-9cb6-4c25-b8bd-91884a5f8a15 rmi=localhost
+1653058195679|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-1fd37b9e-62bb-460e-af4c-bb68350f9891 rmi=localhost
+1653058195696|GlobalRegistry processing put 949674e2-28a1-4120-ba6b-4330ed1d1570 rmi=localhost
+1653058195698|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-ab19a8c5-26db-44a2-86e0-dc90f8d0154a rmi=localhost
+1653058195700|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-2e2363e7-ecad-4d7e-b409-d39aa50c4e32 rmi=localhost
+1653058195714|GlobalRegistry processing put d293fc98-4e7d-479a-9dd0-106adf4392ff rmi=localhost
+1653058195715|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-03f91276-cf5c-4d4b-92ad-2417dd021cb7 rmi=localhost
+1653058195717|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-064b1fee-6a2d-4a2c-82c1-b77b33c4d028 rmi=localhost
+1653058195732|GlobalRegistry processing put 34115bba-abdd-45bb-ba62-5f977120e36d rmi=localhost
+1653058195733|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-3a871209-43df-493d-a18c-c99e3a70fdeb rmi=localhost
+1653058195736|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-0414a901-3ca6-481c-bb46-4c9bc0572752 rmi=localhost
+1653058195750|GlobalRegistry processing put 1e9226f0-fbaf-4ded-858c-87b4465fc299 rmi=localhost
+1653058195751|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-058e16db-f8b5-4877-a490-ad1ec3626b19 rmi=localhost
+1653058195753|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-6b889352-63d9-4726-8324-5393d0692ea2 rmi=localhost
+1653058195767|GlobalRegistry processing put 3d23cf60-b10c-4cda-9aa4-521ba9be93f3 rmi=localhost
+1653058195768|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-436c9a0f-4b02-47d4-b9be-54044015f2b3 rmi=localhost
+1653058195770|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-677871a1-f07f-4ca8-b583-0c0974b25fb6 rmi=localhost
+1653058195784|GlobalRegistry processing put e2f90b55-7e07-4368-8cca-54d4bfbc8371 rmi=localhost
+1653058195786|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-7de65e06-64aa-4dc5-bf59-f239c9c61916 rmi=localhost
+1653058195787|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-de709625-e025-4ae9-8a2c-4be8d1efea20 rmi=localhost
+1653058195801|GlobalRegistry processing put 9fafc4f7-acbc-4d93-9bb7-e35b91814660 rmi=localhost
+1653058195803|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-00e28c96-ab23-4e99-bd02-e88137c2d559 rmi=localhost
+1653058195805|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-9fd15e90-6c5e-4462-9346-0e643132043e rmi=localhost
+1653058195818|GlobalRegistry processing put 2e35ba5a-2e15-4e81-8ce7-9c8cd50ffb77 rmi=localhost
+1653058195820|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-22261f82-d9b9-469a-ac62-1bba68618bbd rmi=localhost
+1653058195821|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-36ba48eb-0346-4706-ad97-d4416d6a781f rmi=localhost
+1653058195836|GlobalRegistry processing put 7af4cd86-c8c7-4a3e-a206-02c0ad9ab9dd rmi=localhost
+1653058195837|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-6479a11c-dda8-47f6-a325-b64392055fca rmi=localhost
+1653058195839|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-f708189d-2f04-4d8d-90f3-6fa523aa232f rmi=localhost
+1653058195857|GlobalRegistry processing put f078f3c8-4948-4c96-8dca-a325c399e2a6 rmi=localhost
+1653058195858|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-60edd8a7-3ddd-4999-a7a0-481490d88263 rmi=localhost
+1653058195860|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-f8b43374-977a-46ba-8af7-468a038c5f49 rmi=localhost
+1653058195875|GlobalRegistry processing put 52147c85-7028-4b78-ab0f-f1ff00e664a6 rmi=localhost
+1653058195876|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-8342da4f-b126-4ec6-8d44-bbcb7331b340 rmi=localhost
+1653058195878|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-e0eb3f73-704f-480d-b42a-5d14f7c61fd6 rmi=localhost
+1653058195891|GlobalRegistry processing put a4625364-50b9-4f70-992e-2592c6449aa5 rmi=localhost
+1653058195893|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-716291c4-485f-4613-9c61-fbfd378641df rmi=localhost
+1653058195895|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-b9fce31d-bdaf-4978-8702-8c820f3ef4a3 rmi=localhost
+1653058195908|GlobalRegistry processing put b352960f-6708-490c-bb8f-037a95719087 rmi=localhost
+1653058195909|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-ffe7a954-8e15-48a3-be3c-a6f3b11d3a30 rmi=localhost
+1653058195911|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-0a39b81a-57d3-4126-b995-832c5093133e rmi=localhost
+1653058195926|GlobalRegistry processing put d1e46ba4-d343-4233-98d9-5b41b4558822 rmi=localhost
+1653058195929|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-89948037-fb6e-4a7b-aa2c-4a5fd10cd6dd rmi=localhost
+1653058195931|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-f0bbf3ab-c680-4e3b-b513-50b9cafcc6b8 rmi=localhost
+1653058195950|GlobalRegistry processing put 58d1c9c8-a4fc-42ce-938e-524c4c4e9860 rmi=localhost
+1653058195951|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-489bc062-484b-4ffd-b230-22256c168e18 rmi=localhost
+1653058195955|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-7f45f4f9-fcd1-4f34-95cd-3c1925156e0d rmi=localhost
+1653058195977|GlobalRegistry processing put 0092c5ad-e5fb-4b8d-a098-70add2d520c3 rmi=localhost
+1653058195978|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-680e9aff-7531-4200-b71a-62e0df1a9dfd rmi=localhost
+1653058195979|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-db729162-733c-41c2-ad52-b01e14074797 rmi=localhost
+1653058195994|GlobalRegistry processing put f1532f76-ead6-49fc-bf35-2e2fe7c32a6e rmi=localhost
+1653058195995|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-b8b5fe06-19e6-426e-b709-559486daa8cc rmi=localhost
+1653058195997|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-0867213e-62d7-4589-a8fc-69c081ffbde8 rmi=localhost
+1653058196012|GlobalRegistry processing put 0de5522f-8189-4e10-9548-3dfc76c0e9fc rmi=localhost
+1653058196013|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-c428633c-8512-4579-a45a-e15f54ddf735 rmi=localhost
+1653058196014|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-6c51a8a8-17d5-4157-bf29-d9b3064fc03e rmi=localhost
+1653058196028|GlobalRegistry processing put b886311f-4995-48b0-8cac-066bf5957038 rmi=localhost
+1653058196029|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-a9481eb3-9da4-4626-8a6b-6efd19bec34d rmi=localhost
+1653058196031|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-307e3f41-f34c-4912-a11d-c847b1833d05 rmi=localhost
+1653058196051|GlobalRegistry processing put a59d984c-a498-4bfa-bd26-e62b3b78f61b rmi=localhost
+1653058196053|GlobalRegistry processing put components.threshold.interfaces.ThresholdAuctioneerCI-7050fdb1-fc5b-4bf0-857f-5edb8cb4c2f5 rmi=localhost
+1653058196057|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-798d93db-a1a2-43dc-abda-1b9ca721dcd0 rmi=localhost
+1653058196069|GlobalRegistry processing put auctioneer-uri rmi=localhost
+1653058196076|GlobalRegistry processing put components.threshold.interfaces.ThresholdSellerCI-1faa4935-f2ee-44c7-b947-b59eb5da68c3 rmi=localhost
+1653058196082|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-2eeec19e-7dac-4720-86fa-5e0df04e86a7 rmi=localhost
+1653058196084|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-8968b931-86c2-4004-afe8-f621269686c1 rmi=localhost
+1653058196085|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-2bca42c3-6673-4a27-bc9f-1b5aadcf6bda rmi=localhost
+1653058196087|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-8f16c616-b1b9-4891-b829-f908feeaa3ae rmi=localhost
+1653058196088|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-77d76fc2-0dd7-400e-9112-6d2e16a2ed2d rmi=localhost
+1653058196090|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-8349c2d7-c8ef-402a-8f25-fbdf3cd98b9a rmi=localhost
+1653058196092|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-29c8e8f4-f8a4-49ee-b622-1d02e58109d1 rmi=localhost
+1653058196093|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-1e453d25-fe25-48d5-8b8e-565bb45a149e rmi=localhost
+1653058196094|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-468c3e29-4394-466d-9609-82d9e47a2daf rmi=localhost
+1653058196095|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-8fff414d-f837-412e-90d3-71d0f3b9f790 rmi=localhost
+1653058196096|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-88342bca-cdc3-41b8-8e6f-26365cdba11c rmi=localhost
+1653058196097|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-6a45b314-5265-4f21-87eb-8d2206b6472a rmi=localhost
+1653058196099|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-bd4c01d7-d2e4-4559-902f-1f78d15ca0c0 rmi=localhost
+1653058196100|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-d7a7c8bc-b363-43ac-81b9-67e1b9296d99 rmi=localhost
+1653058196101|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-16758e20-2dc5-40b9-894e-e12501ac3a39 rmi=localhost
+1653058196103|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-a992aa36-5d02-47b0-a42f-afadf2fc127e rmi=localhost
+1653058196104|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-ff0898d4-a965-471b-b9cc-62d30ee2301c rmi=localhost
+1653058196105|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-60b2f54b-a885-42a4-bffe-71b38fd7695e rmi=localhost
+1653058196106|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-0d79073b-e146-4ea4-b205-017785ef0c28 rmi=localhost
+1653058196108|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-742bb64a-7747-4aaf-bb67-fa7dee3adcf0 rmi=localhost
+1653058196109|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-2a1befb3-bcb5-483a-a1f1-3a8921bdf44c rmi=localhost
+1653058196110|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-0ca647d2-4678-4d19-804d-fdf0d48c5839 rmi=localhost
+1653058196110|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-f36a35bb-3f5e-44b6-b4e5-7c937fba78fc rmi=localhost
+1653058196112|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-bbaeaa25-923d-47ed-8abb-109fbab461ce rmi=localhost
+1653058196113|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-33455369-1fbe-4375-aa08-9f303dddb0ec rmi=localhost
+1653058196115|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-3dc0c41e-ded1-4c0d-a50a-857ceeaf6e45 rmi=localhost
+1653058196116|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-2ca4b7e5-24d3-490d-b15a-f1a941d30e1d rmi=localhost
+1653058196118|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-e0284947-eb65-450f-8770-fcd5e3dbb4ad rmi=localhost
+1653058196119|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-3c46aecb-c923-4300-a9db-10c645bb8420 rmi=localhost
+1653058196120|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-1a4aa924-a084-4e05-9155-7bee68ff2c6d rmi=localhost
+1653058196121|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-6387ff34-d4aa-45ab-813c-9f27ca3ccc2a rmi=localhost
+1653058196122|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-c7c010e5-8465-4ff6-a166-aa25fa6c5204 rmi=localhost
+1653058196123|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-fc4ecc1c-80f5-4e5c-bf50-e2c2e1afaa15 rmi=localhost
+1653058196125|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-1eaa537b-18a4-4950-b1d2-82c500aa349e rmi=localhost
+1653058196126|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-542040e7-2a03-4a16-a282-6ed6a21e2e48 rmi=localhost
+1653058196127|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-4896314e-1e91-4d82-a46d-fc7635369a53 rmi=localhost
+1653058196128|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-d425a956-6b35-4b9b-8b0c-7eb5dd65e064 rmi=localhost
+1653058196130|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-bfcf4dc2-e512-4dcc-987b-42858c9381c3 rmi=localhost
+1653058196131|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-7f5e1399-99ab-44fd-baaa-bd76b977278a rmi=localhost
+1653058196132|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-549d90b3-abc2-4d11-bd1f-f8748512fd90 rmi=localhost
+1653058196133|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-491946fc-61b5-4f3a-99cf-48183c95187c rmi=localhost
+1653058196134|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-c15fb49b-df6a-48f8-aa76-a82b758c2536 rmi=localhost
+1653058196136|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-a2c53056-2aff-4b18-a6d7-6fb544ae34a6 rmi=localhost
+1653058196137|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-6fd79ca6-924f-4483-bf4c-519f22d866b7 rmi=localhost
+1653058196138|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-a19a903a-3cfb-4bfe-873e-cbde03466257 rmi=localhost
+1653058196139|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-745fff15-3f3a-46cf-a139-9d40a0e336ac rmi=localhost
+1653058196140|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-e1cda7a8-34a6-4a46-957f-fd6c3d15e021 rmi=localhost
+1653058196142|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-5910fb1b-e99c-470b-8129-acacb9de41e4 rmi=localhost
+1653058196143|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-ed673f6f-160f-4d33-8f8f-b03e39e44a8e rmi=localhost
+1653058196144|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-7385daf3-ad5b-4b24-aa77-92408ea1209f rmi=localhost
+1653058196146|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-ba27f6b5-55e5-4552-8565-b577ba6187a0 rmi=localhost
+1653058196146|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-89bc7c5c-5cc5-4370-b1c4-2ec419091522 rmi=localhost
+1653058196147|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-2ec1aafd-6768-4540-88e5-1ba3ac769337 rmi=localhost
+1653058196148|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-8e22f395-4747-4cec-99e8-3bc79cbcd693 rmi=localhost
+1653058196149|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-032543c5-e6bc-40df-b5b8-9cfc2d5b4ede rmi=localhost
+1653058196150|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-cebc8162-7f14-40a2-8c8f-54bfa370b95c rmi=localhost
+1653058196151|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-c8cabac6-e13d-4e96-a9ab-95a008b8b951 rmi=localhost
+1653058196152|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-5909304d-2b2d-495d-b8ce-0a11b4b18e15 rmi=localhost
+1653058196153|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-67180c12-b701-4bd1-b4a3-9451eacef12a rmi=localhost
+1653058196154|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-adf92735-3845-4e81-a3cf-645a87c23826 rmi=localhost
+1653058196156|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-278701cc-3a69-44d4-8265-9cce69a4cfaf rmi=localhost
+1653058196157|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-6205260d-a8c2-41f9-a86a-60761ec2d360 rmi=localhost
+1653058196158|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-8570eb75-a289-4bc9-8965-0cace50ea186 rmi=localhost
+1653058196158|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-ac7f279d-e3d8-4a62-85c7-8c5b0dd2a689 rmi=localhost
+1653058196159|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-e0240c3c-56cf-4c7a-9e8d-4d481fe918b1 rmi=localhost
+1653058196160|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-df66f572-1348-47f8-9109-0e645f9e456a rmi=localhost
+1653058196161|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-0aa14380-a3e3-4423-bfbf-2f8385410c4d rmi=localhost
+1653058196162|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-ed78507a-54fb-496b-a663-e8887e9f56a2 rmi=localhost
+1653058196163|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-3271f010-7594-4ce5-8062-e6881a9f9128 rmi=localhost
+1653058196164|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-79f105eb-00c0-4e25-824c-e6e2325d91cd rmi=localhost
+1653058196165|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-ccd26ca5-c0e1-4743-9a24-471e2b96c94e rmi=localhost
+1653058196166|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-e130154a-8928-49dc-a083-3b1849aa1184 rmi=localhost
+1653058196167|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-035e5c9b-d17d-40e8-8726-1a264c8a1e75 rmi=localhost
+1653058196168|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-3ad92a82-4fd7-4567-99f6-7f5b8f455b03 rmi=localhost
+1653058196169|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-1c312a8a-c241-4f72-b262-3156cda196b6 rmi=localhost
+1653058196170|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-f7894e0e-1d66-47e2-9e88-3da52b8cec1d rmi=localhost
+1653058196171|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-3762a583-aac3-4419-a942-5d1ddb35aa2c rmi=localhost
+1653058196172|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-36f0a2b3-96b8-4d76-9de9-ce8eb385286d rmi=localhost
+1653058196173|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-afbf6400-83f2-40cc-9fc0-f1d3ecbce486 rmi=localhost
+1653058196174|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-31f461a1-bfba-4f4e-8339-acc2e071c685 rmi=localhost
+1653058196175|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-ee3a807d-2d4d-4d72-a752-1d78edf482ef rmi=localhost
+1653058196177|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-783b0f25-03d6-45e3-9731-1783801aa579 rmi=localhost
+1653058196178|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-f5b38eb9-5f0e-4348-a030-40415128d0fb rmi=localhost
+1653058196179|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-6b0913a3-78d9-4686-ba21-78cf0f373171 rmi=localhost
+1653058196181|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-d8cad269-99c1-426e-8ade-21672e010702 rmi=localhost
+1653058196182|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-70efce26-e177-4b3e-9893-ea6435996dfc rmi=localhost
+1653058196183|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-a1ce7756-28af-41db-8143-e346a18ff6ac rmi=localhost
+1653058196184|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-08818b5b-23c2-4f10-882a-cdda02e3c714 rmi=localhost
+1653058196185|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-aec0049d-b3f2-4dd2-ad89-8262b92bf7b2 rmi=localhost
+1653058196186|GlobalRegistry processing put components.threshold.interfaces.ThresholdBidderCI-176c62e5-9163-4930-98b8-292ba4fa843a rmi=localhost
+1653058196190|GlobalRegistry processing put fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-c0b1c70f-0184-41f8-a7b1-9314194b60ab rmi=localhost
+1653058196198|GlobalRegistry processing put JVM2-dcc rmi=localhost
+1653058196211|GlobalRegistry processing lookup auctioneer-uri
+1653058196238|GlobalRegistry processing lookup auctioneer-pluguri
+1653058296348|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-fa42a4bf-6435-463e-8874-617069d1f95b
+1653058296352|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-8d74ec75-e0df-4ed1-a03f-655ba3260b74
+1653058296354|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-cae5a2aa-4bbd-4a91-8a36-64028f44a43a
+1653058296380|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-dff40f86-af07-4958-92ec-f7acd30222c6
+1653058296381|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-4cf109c3-0076-44b1-a23d-c17e3d45afa6
+1653058296382|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-e1eabcc7-d96f-4795-8c73-aa93a0a3c2ec
+1653058296384|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-ba2a83e4-4fd8-499e-9989-301d47ee4b19
+1653058296387|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-1fd37b9e-62bb-460e-af4c-bb68350f9891
+1653058296390|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-9fd15e90-6c5e-4462-9346-0e643132043e
+1653058296393|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-c0b1c70f-0184-41f8-a7b1-9314194b60ab
+1653058296397|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-c563d04c-7d51-4455-816b-3cfe6f0570d2
+1653058296399|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-f0bbf3ab-c680-4e3b-b513-50b9cafcc6b8
+1653058296401|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-dba7b884-b623-4056-a197-631ee7608073
+1653058296403|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-aad5ecc7-8ca3-4367-9747-73283228349d
+1653058296429|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-dde7374b-7fcd-4d2a-9fbb-59954503d0a8
+1653058296431|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-5f308af4-f534-4283-b65b-62a1254ab212
+1653058296433|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-8811a7a1-becd-4cb3-a56e-e68c7115aafa
+1653058296434|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-36ba48eb-0346-4706-ad97-d4416d6a781f
+1653058296436|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-b9fce31d-bdaf-4978-8702-8c820f3ef4a3
+1653058296437|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-33fadee4-9331-442a-bc9f-1a89bf568ce1
+1653058296438|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-0a39b81a-57d3-4126-b995-832c5093133e
+1653058296440|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-6d29630e-3991-4ec0-86bf-f64066ccfcf5
+1653058296441|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-5275e600-4d34-40dc-a236-70418602a857
+1653058296443|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-f708189d-2f04-4d8d-90f3-6fa523aa232f
+1653058296444|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-e2ca6d0b-6404-4689-bbbb-cf0100fd50b2
+1653058296445|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-44d62d32-2859-4850-a77d-f5c5d8c04dd4
+1653058296446|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-872f29ca-2c7b-4b23-a9e8-801a609a3cad
+1653058296447|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-01d990a5-88eb-4731-8ffd-db097a1b27b2
+1653058296448|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-02fec77f-200a-4f84-bbb2-8887e4f63536
+1653058296450|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-439e1dc4-e6fb-430a-9f98-f6a0063512b0
+1653058296450|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-1683d2f5-9bfa-4c57-b434-fb3772b24f4e
+1653058296451|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-f8b43374-977a-46ba-8af7-468a038c5f49
+1653058296452|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-d30c43cf-5472-480b-9218-f1525d0f647d
+1653058296453|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-2b1843dd-2f6f-4322-8e56-48f04054dffe
+1653058296479|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-9dff01a2-735b-4cde-a872-dc6f52af8070
+1653058296481|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-25c7e28b-3431-456a-b6b2-d193fc93412d
+1653058296482|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-007c1ca5-75d5-4ec5-94e8-25e86b6c772e
+1653058296484|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-7235dca0-e80c-444f-84bd-6f78ced48c89
+1653058296485|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-716fe896-111c-493c-bf91-45329d2343fe
+1653058296487|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-eb3ef8db-5b10-4672-b75c-7e555130f006
+1653058296488|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-6c51a8a8-17d5-4157-bf29-d9b3064fc03e
+1653058296489|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-de709625-e025-4ae9-8a2c-4be8d1efea20
+1653058296491|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-fe96c994-8f84-4019-8f07-4118ced46558
+1653058296492|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-727521cd-03d2-4649-aeb3-df6f03d51967
+1653058296493|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-d77fa4ed-a494-4e05-b35b-8cd49330ec69
+1653058296494|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-52b229ce-2133-4078-a70c-bdeef412a72d
+1653058296496|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-38b095d9-6885-4824-9976-4a0bc6bcf680
+1653058296497|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-0742134b-3560-4cfc-8ac0-feee8069aaa7
+1653058296498|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-ac01696a-f9cb-4196-85ea-5dc5a97a08a9
+1653058296500|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-e9d51445-5756-4dc9-9df8-03714bca9476
+1653058296501|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-794629b2-03bf-47ea-8a73-adc358010667
+1653058296503|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-327b54be-1131-4c38-b36c-e21aad32190d
+1653058296529|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-49aaef72-f902-4472-8bf3-0357aef917dd
+1653058296530|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-6b1c04b2-5d67-43d2-9d31-f63c28c43ee4
+1653058296531|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-0414a901-3ca6-481c-bb46-4c9bc0572752
+1653058296533|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-0fd0d9e7-226f-4db0-9375-11c807348476
+1653058296534|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-a7546600-f619-4e24-b944-85339f1950b3
+1653058296536|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-d85925bc-40d1-49e4-a842-26e0369cfc89
+1653058296538|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-0fbc7488-fc44-42e2-9330-1e8b18f73556
+1653058296539|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-1114e0fc-06e5-4f11-ab1f-f2b552def2f3
+1653058296540|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-7f45f4f9-fcd1-4f34-95cd-3c1925156e0d
+1653058296541|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-969941f0-2890-4442-a961-df2177c94358
+1653058296542|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-32568a61-d38a-4196-bca5-604749b4234b
+1653058296544|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-064b1fee-6a2d-4a2c-82c1-b77b33c4d028
+1653058296545|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-7f4644d8-f8b6-4a0e-a3c6-006640bd9022
+1653058296547|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-59064537-5c62-4302-8d03-7530c0ba9a4a
+1653058296548|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-8ccaf237-1663-4904-8875-c8260a8408cd
+1653058296549|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-f0aa8b28-80e2-42a5-bcfc-87bc507f6e4d
+1653058296550|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-db729162-733c-41c2-ad52-b01e14074797
+1653058296552|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-8cc70542-f5b6-4ee3-95f2-c26db739e752
+1653058296553|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-307e3f41-f34c-4912-a11d-c847b1833d05
+1653058296580|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-08b37352-391f-4474-9129-2ea7aac84ce8
+1653058296581|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-1f1150d9-df21-4f07-82e0-96a993ca7751
+1653058296582|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-b58d78ea-3a46-4e99-931e-90559a599b2c
+1653058296584|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-677871a1-f07f-4ca8-b583-0c0974b25fb6
+1653058296586|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-e0eb3f73-704f-480d-b42a-5d14f7c61fd6
+1653058296587|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-798d93db-a1a2-43dc-abda-1b9ca721dcd0
+1653058296682|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-9da2aa4a-0de1-480d-95b0-783c9f5c5e45
+1653058296683|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-b3331f67-c94d-42aa-89df-0be77b3ccac6
+1653058296684|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-467093aa-9699-42bf-a6af-0e91404509be
+1653058296685|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-9591b1f6-3661-4ae1-b456-8763fc5c981c
+1653058296686|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-ef591d70-4690-4163-b46c-699700010f66
+1653058296687|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-e13c302f-5113-4e10-b938-f23700f465d0
+1653058296689|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-0867213e-62d7-4589-a8fc-69c081ffbde8
+1653058296690|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-d8d4bed2-8d9e-4e23-a70c-5dceb172f5d8
+1653058296692|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-4d61780d-7cac-4e37-a3a6-dde7b2f30683
+1653058296693|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-6b889352-63d9-4726-8324-5393d0692ea2
+1653058296694|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-f797d4f1-3e52-41d5-b700-22ca730f3198
+1653058296696|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-1cba7da1-6b03-4d68-9c8c-6fcd862fb644
+1653058296697|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-86dcc9d5-7efb-4bbf-9f64-769954a274ba
+1653058296699|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-085834c7-8613-49a7-8927-0413c8431320
+1653058296700|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-15b2cafd-6937-4781-b8d3-06f544769ff4
+1653058296702|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-3dd29db5-d816-48ba-b448-a72fd9b8bfc8
+1653058296703|GlobalRegistry processing remove fr.sorbonne_u.components.reflection.interfaces.ReflectionCI-2e2363e7-ecad-4d7e-b409-d39aa50c4e32
+1653058296706|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-52758dde-0bf7-4e3e-8c82-5774f9d1a6bf
+1653058296707|GlobalRegistry processing remove seller-uri
+1653058296710|GlobalRegistry processing remove auctioneer-pluguri
+1653058296728|GlobalRegistry processing remove 604eb6b8-e22b-4f6a-9fa8-4ce0e429da23
+1653058296730|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-afed211a-5938-4658-b1a6-302861aa1669
+1653058296731|GlobalRegistry processing remove JVM1-dcc
+1653058296732|GlobalRegistry processing remove f89345bd-0a48-4a44-b08d-e75a32dc5856
+1653058296735|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-fbe486f3-c646-4efe-8253-5cf4ddd8dd5c
+1653058296736|GlobalRegistry processing remove 0fc753eb-c9cc-4beb-b433-9eade771e7ec
+1653058296738|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-1a222fe5-6c52-41e8-a502-8fd7e583c334
+1653058296738|GlobalRegistry processing remove f016d598-6980-4012-86ee-e5b0e5a54e10
+1653058296740|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-e66afa64-cb28-44d2-8a31-1285aa419619
+1653058296741|GlobalRegistry processing remove a4891dfb-1a9a-4901-b669-6f5bf3578626
+1653058296743|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-ab19a8c5-26db-44a2-86e0-dc90f8d0154a
+1653058296743|GlobalRegistry processing remove 949674e2-28a1-4120-ba6b-4330ed1d1570
+1653058296745|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-22261f82-d9b9-469a-ac62-1bba68618bbd
+1653058296746|GlobalRegistry processing remove 2e35ba5a-2e15-4e81-8ce7-9c8cd50ffb77
+1653058296747|GlobalRegistry processing remove JVM2-dcc
+1653058296749|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-f5b60980-65c4-4fff-b094-cd48185d9e03
+1653058296749|GlobalRegistry processing remove ed6d081a-dddd-41bf-ae70-1d4d05553ea6
+1653058296751|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-489bc062-484b-4ffd-b230-22256c168e18
+1653058296752|GlobalRegistry processing remove 58d1c9c8-a4fc-42ce-938e-524c4c4e9860
+1653058296779|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-b2d32c0e-dcf2-41c8-9748-938b9758a73f
+1653058296780|GlobalRegistry processing remove 72c7db95-6520-47fd-8c7e-2eb2dc642ac9
+1653058296782|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-1a2c0341-dbce-4aff-a7c5-a23f7b6a0c5f
+1653058296782|GlobalRegistry processing remove d6b66d83-6476-436f-8134-ea2b1257e2bc
+1653058296784|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-31c06e0a-9619-4a96-acc0-2e3e75fd8920
+1653058296785|GlobalRegistry processing remove 6009101b-f8ae-4ca8-989c-a5c07a21b61f
+1653058296787|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-a9925bec-9cb6-4c25-b8bd-91884a5f8a15
+1653058296788|GlobalRegistry processing remove ec9ac0db-8288-4d6c-b247-a41ff9378c65
+1653058296791|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-cb2ab988-0b1c-4c51-bbdc-580e305fab33
+1653058296791|GlobalRegistry processing remove 111d1ffe-f908-4a5c-b980-c765d6a3e9c7
+1653058296793|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-6479a11c-dda8-47f6-a325-b64392055fca
+1653058296794|GlobalRegistry processing remove 7af4cd86-c8c7-4a3e-a206-02c0ad9ab9dd
+1653058296796|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-ffe7a954-8e15-48a3-be3c-a6f3b11d3a30
+1653058296797|GlobalRegistry processing remove b352960f-6708-490c-bb8f-037a95719087
+1653058296798|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-b527b98a-45ac-42f8-8092-7e4504b27050
+1653058296799|GlobalRegistry processing remove 7058f638-272b-4336-8130-d70ed9232304
+1653058296800|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-89948037-fb6e-4a7b-aa2c-4a5fd10cd6dd
+1653058296802|GlobalRegistry processing remove d1e46ba4-d343-4233-98d9-5b41b4558822
+1653058296829|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-dd044851-1b56-4626-b3c4-f11f241914e3
+1653058296830|GlobalRegistry processing remove 5339cc07-d2f7-413a-b802-03614cc502c8
+1653058296832|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-f98a56a8-7723-43ca-b761-8872ee22c6fc
+1653058296833|GlobalRegistry processing remove fbbb6896-b2d1-42cc-a530-15b4dd207a50
+1653058296835|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-60edd8a7-3ddd-4999-a7a0-481490d88263
+1653058296836|GlobalRegistry processing remove f078f3c8-4948-4c96-8dca-a325c399e2a6
+1653058296838|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-6dd6b87c-729f-4679-9618-7ad0538d4886
+1653058296839|GlobalRegistry processing remove cfdde462-ef35-4d4a-8a4f-2dc3f8e3c658
+1653058296840|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-e38e4670-5272-49ee-a098-a151548aa04a
+1653058296841|GlobalRegistry processing remove 68015d5b-8086-4d17-87d2-86278be62784
+1653058296843|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-ad863f74-b6d3-4b65-91f3-b4d6bccc6296
+1653058296843|GlobalRegistry processing remove 378883a7-6005-4848-9357-6f1186a81384
+1653058296846|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-1a2fded3-83f8-4ea2-82ac-0890a313e531
+1653058296846|GlobalRegistry processing remove 1e0ec3de-edee-498e-a707-bc248f67c66d
+1653058296849|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-55eff4c9-0d24-4831-89ee-bc041d55cd7a
+1653058296850|GlobalRegistry processing remove 10c8ac61-cc11-4c29-b0a2-efef9de1fbab
+1653058296851|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-da39a947-8221-4fe3-852c-80cebb83c00a
+1653058296852|GlobalRegistry processing remove cf137af7-5b1f-4acf-99f0-6922afa6e37d
+1653058296880|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-19a81665-4313-4ea8-88b4-a81959c3f078
+1653058296882|GlobalRegistry processing remove b09e897c-c01d-43b3-a5f7-e0cb3d7341ba
+1653058296886|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-8342da4f-b126-4ec6-8d44-bbcb7331b340
+1653058296887|GlobalRegistry processing remove 52147c85-7028-4b78-ab0f-f1ff00e664a6
+1653058296890|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-acf69c51-631c-47a5-91b4-ee9f0b44f5fb
+1653058296891|GlobalRegistry processing remove f7e953b1-5017-4526-a26c-55283465173e
+1653058296895|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-e6766156-2b01-4687-b6cc-3528a93cbce9
+1653058296896|GlobalRegistry processing remove 666f1c8a-11dc-49e2-ac86-f3930cfd6a80
+1653058296897|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-a735ae50-3520-48c9-a69c-a19d2ea52a7c
+1653058296899|GlobalRegistry processing remove 445f2a08-762e-4152-907d-c05e28d340c4
+1653058296902|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-0a64b9f9-3005-41b3-9377-ee990fd9211a
+1653058296903|GlobalRegistry processing remove 6339446d-580b-4705-aa91-41426eeae2f8
+1653058296930|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-fb2719a5-1134-4ef2-9bae-790b5424766a
+1653058296931|GlobalRegistry processing remove 4a5e82bb-66ac-41b2-9627-5b5e58209ec1
+1653058296934|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-1b33ab4f-820b-4b0e-9858-6f5564bbef3a
+1653058296935|GlobalRegistry processing remove e08f910d-bf1d-4942-bd30-a438e6c495aa
+1653058296937|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-cba641ee-72cd-40f6-817c-6ed56dd6c5c8
+1653058296938|GlobalRegistry processing remove 2490c0d8-d353-4d58-bd65-179c43f3d38e
+1653058296941|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-2b1624c0-fe8d-4fdf-9e27-7a0d479b91c7
+1653058296942|GlobalRegistry processing remove 319e560f-fdbe-4145-8a15-2cdfd19817e5
+1653058296945|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-a9481eb3-9da4-4626-8a6b-6efd19bec34d
+1653058296945|GlobalRegistry processing remove b886311f-4995-48b0-8cac-066bf5957038
+1653058296954|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-00e28c96-ab23-4e99-bd02-e88137c2d559
+1653058296954|GlobalRegistry processing remove 9fafc4f7-acbc-4d93-9bb7-e35b91814660
+1653058296981|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-58142a3c-fbff-40aa-956d-6edc89e9eff0
+1653058296981|GlobalRegistry processing remove 5d37434b-4d59-44e1-970c-1cb098a436de
+1653058296982|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-eceab43f-4c1e-4b81-b4d3-c5f1b544ed5c
+1653058296984|GlobalRegistry processing remove 78c164b8-fb83-4101-ad8e-7a08071897d3
+1653058296986|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-471bcb8d-cd66-436f-bc08-76e766a9db37
+1653058296987|GlobalRegistry processing remove 761bd4bd-1eb6-4313-aedb-ef5f0a3ca6db
+1653058296989|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-8b880dee-4af9-4680-893a-e555387be383
+1653058296990|GlobalRegistry processing remove 2abf96dc-b7df-4b4c-92b2-ebe64f7766a5
+1653058296992|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-4dd451bf-bde6-49a9-a788-beb23fb0ea1c
+1653058296992|GlobalRegistry processing remove 3f3fea9a-2eb3-4fb9-b6ca-57fe3d84b95c
+1653058296994|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-a032d17b-575d-440d-9038-258e5fcccde0
+1653058296995|GlobalRegistry processing remove 633ba6a2-5742-4f5f-ade7-59df491d1b07
+1653058296996|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-bf6f64c7-d968-4404-8873-48c9dc753546
+1653058296997|GlobalRegistry processing remove 1c222b7d-13e1-4f0b-b0aa-a82f5491412d
+1653058296999|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-bef315b7-349e-4311-bc4a-28d43b6c510e
+1653058296999|GlobalRegistry processing remove 7dda1013-0dc1-4ceb-8e8c-629f0ecf5bb0
+1653058297001|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-fda01d3a-704e-49ef-bac6-b6b7adc1af77
+1653058297002|GlobalRegistry processing remove 9b9d9462-6ed1-4b56-b9e4-49987764d480
+1653058297004|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-3962bcf4-fd8f-4f8f-9588-641da56dea04
+1653058297028|GlobalRegistry processing remove e73d7370-77fb-4a84-91b1-c86ebeae79da
+1653058297030|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-0f442c0f-b107-4947-95a9-b602f0da03a6
+1653058297031|GlobalRegistry processing remove 779d72ab-1236-436a-930f-fce9b97d711a
+1653058297033|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-63988919-79c0-4a9b-9f6a-31af366ae096
+1653058297034|GlobalRegistry processing remove feb9778c-1579-4898-82a3-97f969110bf6
+1653058297036|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-058e16db-f8b5-4877-a490-ad1ec3626b19
+1653058297037|GlobalRegistry processing remove 1e9226f0-fbaf-4ded-858c-87b4465fc299
+1653058297038|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-fe524ac2-e274-4d1b-bcfd-2140a45698d2
+1653058297039|GlobalRegistry processing remove 14d71d8b-5e55-4370-bea7-7bd8bc49eed8
+1653058297041|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-6e3aaea9-cdc3-4ce4-abe6-30dfe2b29ce4
+1653058297041|GlobalRegistry processing remove 05b09113-dae5-4848-9d95-29e8a74fb6d1
+1653058297043|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-7e51c31c-7401-4d0e-8974-203f03b4ea41
+1653058297044|GlobalRegistry processing remove f21a491e-8148-4572-8fcd-0c34a86f8498
+1653058297046|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-84860710-9c23-47ca-a28a-5b495dce9abd
+1653058297047|GlobalRegistry processing remove 869dddec-a86d-418e-89e6-286b96d8ea12
+1653058297049|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-2c759ebb-c55f-464f-844f-d1a8bc2909dd
+1653058297050|GlobalRegistry processing remove 67c4b6d5-c255-4e37-b6a5-ce34ee694ed1
+1653058297052|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-680e9aff-7531-4200-b71a-62e0df1a9dfd
+1653058297053|GlobalRegistry processing remove 0092c5ad-e5fb-4b8d-a098-70add2d520c3
+1653058297080|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-0ae26d62-7356-4af8-968b-9f8cad0c3ac2
+1653058297081|GlobalRegistry processing remove cfd9d263-ca79-4170-955a-4345b2e38bc0
+1653058297083|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-4b9bb00e-7520-482c-abd4-9b3a867ac3d6
+1653058297083|GlobalRegistry processing remove 62c36ee3-7f66-4d0a-96d7-a7acf6a3f21d
+1653058297085|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-3a871209-43df-493d-a18c-c99e3a70fdeb
+1653058297085|GlobalRegistry processing remove 34115bba-abdd-45bb-ba62-5f977120e36d
+1653058297088|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-0e8ca738-1159-4933-8985-8b3383bbc3d5
+1653058297088|GlobalRegistry processing remove a28907ce-b4ff-4337-a78d-a8eb4c214f89
+1653058297090|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-b67d6f04-1baa-4010-a8a0-205d669c802a
+1653058297090|GlobalRegistry processing remove 1b3f4803-4d7c-49c3-a208-64af83aacad4
+1653058297093|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-48a9d695-511c-43a3-88e9-f137db048990
+1653058297093|GlobalRegistry processing remove 71b6c5e6-5851-4798-8703-3c449291c441
+1653058297095|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-106e9ade-d6d9-4300-9733-70b02c2a28c0
+1653058297096|GlobalRegistry processing remove 8473e0f2-f33a-4431-ab8a-817a79ca77a9
+1653058297098|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-b8b5fe06-19e6-426e-b709-559486daa8cc
+1653058297098|GlobalRegistry processing remove f1532f76-ead6-49fc-bf35-2e2fe7c32a6e
+1653058297100|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-3e4265a2-65f8-4597-a965-ba90a837e751
+1653058297101|GlobalRegistry processing remove e2dedfdc-fd0f-498d-a145-a1b38d9bffcd
+1653058297103|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-7050fdb1-fc5b-4bf0-857f-5edb8cb4c2f5
+1653058297104|GlobalRegistry processing remove a59d984c-a498-4bfa-bd26-e62b3b78f61b
+1653058297130|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-f990de63-bf35-46ed-91a7-9ad4e3a725de
+1653058297130|GlobalRegistry processing remove de6403ec-276f-44a6-98cc-937845c26103
+1653058297132|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-92c1ddab-63fc-4b21-8506-9ccd686bfc71
+1653058297133|GlobalRegistry processing remove 4f3244b2-c8b0-45d9-97c6-f417fbddd66c
+1653058297135|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-7701206b-cab4-4318-833d-aed11036f777
+1653058297135|GlobalRegistry processing remove f3e4a06e-e494-4b89-92e6-a8f34daad202
+1653058297137|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-7de65e06-64aa-4dc5-bf59-f239c9c61916
+1653058297138|GlobalRegistry processing remove e2f90b55-7e07-4368-8cca-54d4bfbc8371
+1653058297140|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-716291c4-485f-4613-9c61-fbfd378641df
+1653058297140|GlobalRegistry processing remove a4625364-50b9-4f70-992e-2592c6449aa5
+1653058297142|GlobalRegistry processing remove components.threshold.interfaces.ThresholdSellerCI-1faa4935-f2ee-44c7-b947-b59eb5da68c3
+1653058297143|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-2eeec19e-7dac-4720-86fa-5e0df04e86a7
+1653058297143|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-8968b931-86c2-4004-afe8-f621269686c1
+1653058297145|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-2bca42c3-6673-4a27-bc9f-1b5aadcf6bda
+1653058297146|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-8f16c616-b1b9-4891-b829-f908feeaa3ae
+1653058297146|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-77d76fc2-0dd7-400e-9112-6d2e16a2ed2d
+1653058297147|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-8349c2d7-c8ef-402a-8f25-fbdf3cd98b9a
+1653058297148|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-29c8e8f4-f8a4-49ee-b622-1d02e58109d1
+1653058297148|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-1e453d25-fe25-48d5-8b8e-565bb45a149e
+1653058297149|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-468c3e29-4394-466d-9609-82d9e47a2daf
+1653058297150|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-8fff414d-f837-412e-90d3-71d0f3b9f790
+1653058297151|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-88342bca-cdc3-41b8-8e6f-26365cdba11c
+1653058297151|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-6a45b314-5265-4f21-87eb-8d2206b6472a
+1653058297152|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-bd4c01d7-d2e4-4559-902f-1f78d15ca0c0
+1653058297153|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-d7a7c8bc-b363-43ac-81b9-67e1b9296d99
+1653058297153|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-16758e20-2dc5-40b9-894e-e12501ac3a39
+1653058297154|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-a992aa36-5d02-47b0-a42f-afadf2fc127e
+1653058297178|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-ff0898d4-a965-471b-b9cc-62d30ee2301c
+1653058297179|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-60b2f54b-a885-42a4-bffe-71b38fd7695e
+1653058297180|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-0d79073b-e146-4ea4-b205-017785ef0c28
+1653058297180|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-742bb64a-7747-4aaf-bb67-fa7dee3adcf0
+1653058297181|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-2a1befb3-bcb5-483a-a1f1-3a8921bdf44c
+1653058297182|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-0ca647d2-4678-4d19-804d-fdf0d48c5839
+1653058297182|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-f36a35bb-3f5e-44b6-b4e5-7c937fba78fc
+1653058297183|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-bbaeaa25-923d-47ed-8abb-109fbab461ce
+1653058297184|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-33455369-1fbe-4375-aa08-9f303dddb0ec
+1653058297184|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-3dc0c41e-ded1-4c0d-a50a-857ceeaf6e45
+1653058297185|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-2ca4b7e5-24d3-490d-b15a-f1a941d30e1d
+1653058297185|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-e0284947-eb65-450f-8770-fcd5e3dbb4ad
+1653058297186|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-3c46aecb-c923-4300-a9db-10c645bb8420
+1653058297187|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-1a4aa924-a084-4e05-9155-7bee68ff2c6d
+1653058297188|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-6387ff34-d4aa-45ab-813c-9f27ca3ccc2a
+1653058297189|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-c7c010e5-8465-4ff6-a166-aa25fa6c5204
+1653058297189|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-fc4ecc1c-80f5-4e5c-bf50-e2c2e1afaa15
+1653058297190|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-1eaa537b-18a4-4950-b1d2-82c500aa349e
+1653058297190|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-542040e7-2a03-4a16-a282-6ed6a21e2e48
+1653058297191|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-4896314e-1e91-4d82-a46d-fc7635369a53
+1653058297191|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-d425a956-6b35-4b9b-8b0c-7eb5dd65e064
+1653058297192|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-bfcf4dc2-e512-4dcc-987b-42858c9381c3
+1653058297193|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-7f5e1399-99ab-44fd-baaa-bd76b977278a
+1653058297193|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-549d90b3-abc2-4d11-bd1f-f8748512fd90
+1653058297194|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-491946fc-61b5-4f3a-99cf-48183c95187c
+1653058297194|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-c15fb49b-df6a-48f8-aa76-a82b758c2536
+1653058297196|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-a2c53056-2aff-4b18-a6d7-6fb544ae34a6
+1653058297196|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-6fd79ca6-924f-4483-bf4c-519f22d866b7
+1653058297197|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-a19a903a-3cfb-4bfe-873e-cbde03466257
+1653058297198|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-745fff15-3f3a-46cf-a139-9d40a0e336ac
+1653058297198|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-e1cda7a8-34a6-4a46-957f-fd6c3d15e021
+1653058297199|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-5910fb1b-e99c-470b-8129-acacb9de41e4
+1653058297199|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-ed673f6f-160f-4d33-8f8f-b03e39e44a8e
+1653058297200|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-7385daf3-ad5b-4b24-aa77-92408ea1209f
+1653058297200|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-ba27f6b5-55e5-4552-8565-b577ba6187a0
+1653058297201|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-89bc7c5c-5cc5-4370-b1c4-2ec419091522
+1653058297201|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-2ec1aafd-6768-4540-88e5-1ba3ac769337
+1653058297202|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-8e22f395-4747-4cec-99e8-3bc79cbcd693
+1653058297203|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-032543c5-e6bc-40df-b5b8-9cfc2d5b4ede
+1653058297203|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-cebc8162-7f14-40a2-8c8f-54bfa370b95c
+1653058297204|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-c8cabac6-e13d-4e96-a9ab-95a008b8b951
+1653058297228|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-5909304d-2b2d-495d-b8ce-0a11b4b18e15
+1653058297229|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-67180c12-b701-4bd1-b4a3-9451eacef12a
+1653058297230|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-adf92735-3845-4e81-a3cf-645a87c23826
+1653058297230|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-278701cc-3a69-44d4-8265-9cce69a4cfaf
+1653058297232|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-6205260d-a8c2-41f9-a86a-60761ec2d360
+1653058297233|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-8570eb75-a289-4bc9-8965-0cace50ea186
+1653058297233|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-ac7f279d-e3d8-4a62-85c7-8c5b0dd2a689
+1653058297234|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-e0240c3c-56cf-4c7a-9e8d-4d481fe918b1
+1653058297234|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-df66f572-1348-47f8-9109-0e645f9e456a
+1653058297234|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-0aa14380-a3e3-4423-bfbf-2f8385410c4d
+1653058297236|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-ed78507a-54fb-496b-a663-e8887e9f56a2
+1653058297236|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-3271f010-7594-4ce5-8062-e6881a9f9128
+1653058297237|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-79f105eb-00c0-4e25-824c-e6e2325d91cd
+1653058297238|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-ccd26ca5-c0e1-4743-9a24-471e2b96c94e
+1653058297238|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-e130154a-8928-49dc-a083-3b1849aa1184
+1653058297239|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-035e5c9b-d17d-40e8-8726-1a264c8a1e75
+1653058297239|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-3ad92a82-4fd7-4567-99f6-7f5b8f455b03
+1653058297240|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-1c312a8a-c241-4f72-b262-3156cda196b6
+1653058297240|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-f7894e0e-1d66-47e2-9e88-3da52b8cec1d
+1653058297241|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-3762a583-aac3-4419-a942-5d1ddb35aa2c
+1653058297241|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-36f0a2b3-96b8-4d76-9de9-ce8eb385286d
+1653058297243|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-afbf6400-83f2-40cc-9fc0-f1d3ecbce486
+1653058297243|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-31f461a1-bfba-4f4e-8339-acc2e071c685
+1653058297244|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-ee3a807d-2d4d-4d72-a752-1d78edf482ef
+1653058297244|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-783b0f25-03d6-45e3-9731-1783801aa579
+1653058297245|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-f5b38eb9-5f0e-4348-a030-40415128d0fb
+1653058297246|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-6b0913a3-78d9-4686-ba21-78cf0f373171
+1653058297246|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-d8cad269-99c1-426e-8ade-21672e010702
+1653058297247|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-70efce26-e177-4b3e-9893-ea6435996dfc
+1653058297247|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-a1ce7756-28af-41db-8143-e346a18ff6ac
+1653058297248|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-08818b5b-23c2-4f10-882a-cdda02e3c714
+1653058297248|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-aec0049d-b3f2-4dd2-ad89-8262b92bf7b2
+1653058297249|GlobalRegistry processing remove components.threshold.interfaces.ThresholdBidderCI-176c62e5-9163-4930-98b8-292ba4fa843a
+1653058297249|GlobalRegistry processing remove auctioneer-uri
+1653058297348|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-682b9361-02cf-4fe6-a526-eb8419d5ee65
+1653058297349|GlobalRegistry processing remove 2e495d88-f87e-4e48-a763-d891ebac775b
+1653058297351|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-0ddfc731-00cc-4736-b9ff-2837441b0326
+1653058297352|GlobalRegistry processing remove abd89f1e-2074-411b-8f0e-263fa29c1ad3
+1653058297382|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-84b72ca6-b354-4698-98af-bb31ef264049
+1653058297383|GlobalRegistry processing remove a0ade2f4-ffb2-4197-8c4a-6ddb53e1bb52
+1653058297387|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-0a2e15e1-e664-432f-96eb-bad8cbdb4665
+1653058297388|GlobalRegistry processing remove a4f65b8c-8fb3-4472-a381-8866d7547b26
+1653058297391|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-c9d2046d-a451-48a6-980a-68e8680a7501
+1653058297392|GlobalRegistry processing remove 39a7800f-5f04-42f3-ac70-b4dc761bc8a1
+1653058297394|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-6487dbdb-53c8-421b-9391-79cc3f16d60d
+1653058297395|GlobalRegistry processing remove 181b3ff0-289c-4bfd-8e3c-72034aab67f3
+1653058297398|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-c428633c-8512-4579-a45a-e15f54ddf735
+1653058297399|GlobalRegistry processing remove 0de5522f-8189-4e10-9548-3dfc76c0e9fc
+1653058297401|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-b446b46c-848f-4edc-b33b-0148ca26d5fe
+1653058297401|GlobalRegistry processing remove 75844275-3a44-4fa6-9344-6778baadb3e6
+1653058297403|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-4c567279-3114-4459-9046-f6d79863bb51
+1653058297404|GlobalRegistry processing remove 11dcad2b-2be9-46eb-b9c4-6634585a2755
+1653058297430|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-436c9a0f-4b02-47d4-b9be-54044015f2b3
+1653058297431|GlobalRegistry processing remove 3d23cf60-b10c-4cda-9aa4-521ba9be93f3
+1653058297434|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-268332b4-08a4-44a2-83b9-58455a5a22fb
+1653058297435|GlobalRegistry processing remove 9d688918-ad9d-401c-9ba4-9819519e520a
+1653058297437|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-44fcfd68-2a92-453c-8429-a01de6eceda1
+1653058297437|GlobalRegistry processing remove 12ebf714-4695-42dc-94a4-d966eea8e317
+1653058297439|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-aa83c308-e427-4501-8659-33e8ca79e169
+1653058297440|GlobalRegistry processing remove eed33ebb-97e1-45cd-ba03-749e2718d576
+1653058297442|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-e3d13c17-8b52-4cb7-8972-245bcfdc630c
+1653058297443|GlobalRegistry processing remove c3c64260-ae4d-47c0-84d8-fd13544cadf5
+1653058297447|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-a63ce2cd-8abb-4949-ad4a-fa3596fb8348
+1653058297447|GlobalRegistry processing remove 8515af78-6407-49df-a124-4cc94d8be8b3
+1653058297449|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-a72feeb2-e4df-486a-a6c4-635b03e24dd6
+1653058297450|GlobalRegistry processing remove 16596c4e-6a0a-4f81-9d33-471d45275833
+1653058297452|GlobalRegistry processing remove components.threshold.interfaces.ThresholdAuctioneerCI-03f91276-cf5c-4d4b-92ad-2417dd021cb7
+1653058297452|GlobalRegistry processing remove d293fc98-4e7d-479a-9dd0-106adf4392ff
+1653058297481|GlobalRegistry processing shutdown
+1653058297481|GlobalRegistry processing shutdown
+1653058297483|Global registry shuts down!

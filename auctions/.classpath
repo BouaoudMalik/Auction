@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-10">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry excluding="components/englishBidding/connections/connectors/CEBidderConnector.java" kind="src" path="src"/>
+	<classpathentry kind="lib" path="BCM4Java-20092021.jar"/>
+	<classpathentry kind="lib" path="javafaker-1.0.2.jar"/>
+	<classpathentry kind="lib" path="snakeyaml-1.23-android.jar"/>
+	<classpathentry kind="lib" path="generex-1.0.2.jar"/>
+	<classpathentry kind="lib" path="commons-lang3-3.5.jar"/>
+	<classpathentry kind="lib" path="automaton-1.11-8.jar"/>
+	<classpathentry kind="lib" path="jars/automaton-1.11-8.jar"/>
+	<classpathentry kind="lib" path="jars/BCM4Java-20092021.jar"/>
+	<classpathentry kind="lib" path="jars/commons-lang3-3.5.jar"/>
+	<classpathentry kind="lib" path="jars/generex-1.0.2.jar"/>
+	<classpathentry kind="lib" path="jars/javafaker-1.0.2.jar"/>
+	<classpathentry kind="lib" path="jars/snakeyaml-1.23-android.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
