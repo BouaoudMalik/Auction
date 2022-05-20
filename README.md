@@ -2,7 +2,7 @@
 
 <br />
 <div align="center">
-    <img src="https://cdn-icons.flaticon.com/png/512/566/premium/566761.png?token=exp=1653080572~hmac=38b693ae28aba457fdfe302256241de9" alt="Logo" width="80" height="80">
+    <img src="auction.png" alt="Logo" width="80" height="80">
 
   <h3 align="center">Implantation d'un système de gestion d'enchères en BCM4JAVA</h3>
 
