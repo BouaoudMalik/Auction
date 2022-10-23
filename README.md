@@ -39,7 +39,7 @@ La documentation de notre système d'enchère se trouve dans **Auction/Doc**
   les Deux protocoles d'enchères réalisés sont les suivant : un protocol d'enchère à l'offre scélée et un protocole d'enchère à l'anglaise.
 
   <div align="center">
-    <img src="threshold.png" alt="Logo" width="80" height="80">
+    <img src="threshold.png" alt="Logo" width="200" height="200">
   </div>
 
   Codé dans le composant **Threshold**.
