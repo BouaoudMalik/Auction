@@ -64,7 +64,7 @@ La documentation de notre système d'enchère se trouve dans **Auction/Doc**
 ### 4.1. MONO JVM
   
   <div align="center">
-    <img src="MonoJVM.png" alt="Logo" width="400" height="400">
+    <img src="MonoJVM.png" alt="Logo" width="250" height="250">
   </div>
 
 Afin de d'executer le projet en mono JVM, il suffit de lancer les deux classes suivantes :
@@ -79,8 +79,8 @@ Afin de d'executer le projet en mono JVM, il suffit de lancer les deux classes s
 ### 4.2. Multi JVM
 
   <div align="center">
-    <img src="JVM1.png" alt="Logo" width="250" height="250">
-    <img src="JVM2.png" alt="Logo" width="250" height="250">
+    <img src="JVM1.png" alt="Logo" width="100" height="100">
+    <img src="JVM2.png" alt="Logo" width="100" height="100">
 
   </div> 
 Ouvrir 4 terminaux et se placer dans le dossier **auctions/src/dcvms**
