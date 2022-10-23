@@ -21,11 +21,51 @@ Sandrine Ear
 #### Encadrant  
 Jacques Malenfant
 
-## Lancement du projet
+## 1. Présentation 
 
-Ouvrir Eclipse, et inclure tout les jars dans le **Build path**
+Ce projet  porte sur la réalisation d’un système de gestion d’enchères de vente, d’achat de biens ou de services en utilisant des concepts de la programmation par composants en Java et des systèmes répartis avec la bibliothèque BCM4Java.
+Ce concept de programmation met l’accent sur la construction d’une application réutilisable grâce aux composants, ce qui va permettre au système d’enchère d’être réutilisable en se greffant sur différents domaines d’application.
 
-### 1. MONO JVM
+
+
+## 2. Documentation
+
+La documentation de notre système d'enchère se trouve dans **Auction/Doc**
+
+## 3. Développement 
+
+  ##### 3.1 Protocoles d'enchères 
+
+  les Deux protocoles d'enchères réalisés sont les suivant : un protocol d'enchère à l'offre scélée et un protocole d'enchère à l'anglaise.
+
+  <div align="center">
+    <img src="threshold.png" alt="Logo" width="80" height="80">
+  </div>
+
+  Codé dans le composant **Threshold**.
+
+  <div align="center">
+    <img src="englishAuction.png" alt="Logo" width="80" height="80">
+  </div>
+
+  Codé dans le composant **EnglishAuction**
+
+  ##### 3.2 Implémentation synchrone 
+
+  Une implémentation synchrone d’un protocole consiste à appeler un enchaînement d’actions dans l’ordre depuis le début de l’enchère jusqu’à sa clôture. Dans le contexte actuel de l’application, une solution synchrone symbolise le fait de dérouler qu’une seule et unique enchère à la fois.
+
+
+  ##### 3.3 Implémentation asynchrone
+
+  L’introduction du parallélisme dans notre système d'enchères consistait à utiliser des threads dans une architecture centralisée afin que le composant commissaire-priseur puisse être en mesure de gérer correctement plusieurs enchères en même temps.
+
+
+### 4 Mode d'execution 
+### 4.1. MONO JVM
+  
+  <div align="center">
+    <img src="MonoJVM.png" alt="Logo" width="80" height="80">
+  </div>
 
 Afin de d'executer le projet en mono JVM, il suffit de lancer les deux classes suivantes :
 
@@ -34,128 +74,30 @@ Afin de d'executer le projet en mono JVM, il suffit de lancer les deux classes s
 > auctions/src/cvms/CVMThreshold.java
 
 
-### 2. Multi JVM
 
+
+### 4.2. Multi JVM
+
+  <div align="center">
+    <img src="JVM1.png" alt="Logo" width="80" height="80">
+    <img src="JVM2.png" alt="Logo" width="80" height="80">
+
+  </div> 
 Ouvrir 4 terminaux et se placer dans le dossier **auctions/src/dcvms**
 
-#### 2.1 Lancer la barière cyclique
+#### 4.2.1 Lancer la barière cyclique
 > bash start-cb.sh
 
-#### 2.2 Lancer le registre global
+#### 4.2.2 Lancer le registre global
 > bash start-global-register.sh
 
-#### 2.3 Lancer les JVMs
+#### 4.2.3 Lancer les JVMs
 
 > bash  start-dcvm.sh DistributedCVMThreshold.java JVM1
 
 > bash start-dcvm.sh DistributedCVMThreshold.java JVM2
 
 
-### 3. Documentation
-
-La documentation de notre système d'enchère se trouve dans **Auction/Doc**
-
-#### 4.Architecture des paquets
-
-````
-.
-├── components
-│   ├── englishAuction
-│   │   ├── EnglishAuctioneer.java
-│   │   ├── EnglishBidder.java
-│   │   ├── EnglishSeller.java
-│   │   ├── connections
-│   │   │   ├── connectors
-│   │   │   │   ├── EnglishAuctioneerConnector.java
-│   │   │   │   ├── EnglishBidderConnector.java
-│   │   │   │   └── EnglishSellerConnector.java
-│   │   │   ├── ibp
-│   │   │   │   ├── EnglishAuctioneerInboundPort.java
-│   │   │   │   ├── EnglishBidderInboundPort.java
-│   │   │   │   └── EnglishSellerInboundPort.java
-│   │   │   └── obp
-│   │   │       ├── EnglishAuctioneerOutboundPort.java
-│   │   │       ├── EnglishBidderOutboundPort.java
-│   │   │       └── EnglishSellerOutboundPort.java
-│   │   ├── interfaces
-│   │   │   ├── EnglishAuctioneerCI.java
-│   │   │   ├── EnglishBidderCI.java
-│   │   │   ├── EnglishSellerCI.java
-│   │   │   └── package-info.java
-│   │   └── package-info.java
-│   ├── interfaces
-│   │   ├── ProtocolCI.java
-│   │   └── package-info.java
-│   ├── package-info.java
-│   └── threshold
-│       ├── ThresholdAuctioneer.java
-│       ├── ThresholdBidder.java
-│       ├── ThresholdSeller.java
-│       ├── connections
-│       │   ├── connectors
-│       │   │   ├── ThresholdAuctioneerConnector.java
-│       │   │   ├── ThresholdBidderConnector.java
-│       │   │   └── ThresholdSellerConnector.java
-│       │   ├── ibp
-│       │   │   ├── ThresholdAuctioneerInboundPort.java
-│       │   │   ├── ThresholdBidderInboundPort.java
-│       │   │   └── ThresholdSellerInboundPort.java
-│       │   └── obp
-│       │       ├── ThresholdAuctioneerOutboundPort.java
-│       │       ├── ThresholdBidderOutboundPort.java
-│       │       └── ThresholdSellerOutboundPort.java
-│       ├── interfaces
-│       │   ├── ThresholdAuctioneerCI.java
-│       │   ├── ThresholdBidderCI.java
-│       │   ├── ThresholdSellerCI.java
-│       │   └── package-info.java
-│       └── package-info.java
-├── cvms
-│   ├── CVMEnglishBidding.java
-│   └── CVMThreshold.java
-├── dcvm
-│   ├── DistributedCVMThreshold.java
-│   ├── config
-│   │   └── deployment.rnc
-│   ├── config.xml
-│   ├── cyclicBarrier.log
-│   ├── dcvm.policy
-│   ├── globalRegistry.log
-│   ├── jars
-│   │   ├── BCM4Java-20092021.jar
-│   │   ├── Front.jar
-│   │   ├── automaton-1.11-8.jar
-│   │   ├── commons-lang3-3.5.jar
-│   │   ├── generex-1.0.2.jar
-│   │   ├── javafaker-1.0.2.jar
-│   │   ├── javassist.jar
-│   │   ├── jing.jar
-│   │   └── snakeyaml-1.23-android.jar
-│   ├── start-cb.sh
-│   ├── start-dcvm.sh
-│   └── start-global-register.sh
-├── entities
-│   ├── Behavior.java
-│   ├── BiddedObject.java
-│   ├── Offer.java
-│   ├── ProtocolProgress.java
-│   └── ProtocolState.java
-└── plugins
-    ├── englishAuction
-    │   ├── EnglishAuctioneerPlugin.java
-    │   ├── EnglishBidderPlugin.java
-    │   ├── EnglishSellerPlugin.java
-    │   └── ports
-    │       ├── EnglishAuctioneerInboundPortForPlugin.java
-    │       ├── EnglishBidderInboundPortForPlugin.java
-    │       └── EnglishSellerInboundPortForPlugin.java
-    └── threshold
-        ├── ThresholdAuctioneerPlugin.java
-        ├── ThresholdBidderPlugin.java
-        ├── ThresholdSellerPlugin.java
-        └── ports
-            ├── ThresholdAuctioneerInboundPortForPlugin.java
-            ├── ThresholdBidderInboundPortForPlugin.java
-            └── ThresholdSellerInboundPortForPlugin.java
-
-````
+## Remarque
+  
+  inclure tout les jars dans le **Build path**
