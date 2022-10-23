@@ -39,13 +39,13 @@ La documentation de notre système d'enchère se trouve dans **Auction/Doc**
   les Deux protocoles d'enchères réalisés sont les suivant : un protocol d'enchère à l'offre scélée et un protocole d'enchère à l'anglaise.
 
   <div align="center">
-    <img src="threshold.png" alt="Logo" width="400" height="400">
+    <img src="threshold.png" alt="Logo" width="250" height="250">
   </div>
 
   Codé dans le composant **Threshold**.
 
   <div align="center">
-    <img src="englishAuction.png" alt="Logo" width="400" height="400">
+    <img src="englishAuction.png" alt="Logo" width="250" height="250">
   </div>
 
   Codé dans le composant **EnglishAuction**
@@ -79,8 +79,8 @@ Afin de d'executer le projet en mono JVM, il suffit de lancer les deux classes s
 ### 4.2. Multi JVM
 
   <div align="center">
-    <img src="JVM1.png" alt="Logo" width="400" height="400">
-    <img src="JVM2.png" alt="Logo" width="400" height="400">
+    <img src="JVM1.png" alt="Logo" width="250" height="250">
+    <img src="JVM2.png" alt="Logo" width="250" height="250">
 
   </div> 
 Ouvrir 4 terminaux et se placer dans le dossier **auctions/src/dcvms**
